@@ -105,10 +105,10 @@ playlist-music-player/
 ---
 
 ## 👨‍💻 Author
-**Rahul Teja Kotta**
-**Dhanush Sai**
-**Ganga Srujan**
-**Kiran**
+- **Rahul Teja Kotta**
+- **Dhanush Sai**
+- **Ganga Srujan**
+- **Kiran**
 B.Tech CSE (Artificial Intelligence)
 
 ---
