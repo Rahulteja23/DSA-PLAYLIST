@@ -106,8 +106,11 @@ playlist-music-player/
 
 ## 👨‍💻 Author
 - **Rahul Teja Kotta**
+B.Tech CSE (Artificial Intelligence)
 - **Dhanush Sai**
+B.Tech CSE (Artificial Intelligence)
 - **Ganga Srujan**
+B.Tech CSE (Artificial Intelligence)
 - **Kiran**
 B.Tech CSE (Artificial Intelligence)
 
